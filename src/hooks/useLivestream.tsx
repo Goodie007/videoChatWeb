@@ -10,10 +10,6 @@ import AgoraRTC, {
     ILocalAudioTrack 
 } from 'agora-rtc-sdk-ng';
   
-  
-
-
-const client = AgoraRTC.createClient({ codec: 'h264', mode: 'rtc'})
 
 
 
